@@ -48,7 +48,7 @@ const PUBLIC_KEY ="2Fl8UjbdRPaK8b3Qt";
 
         <p className="text-center text-muted-foreground mb-12 max-w-2xl mx-auto">
            Feel me to reach out for any help and jobs .
-           I'm always open to discussing new opprtunities 
+           I'm always open to discussing opprtunities 
         </p>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
